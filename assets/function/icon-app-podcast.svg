@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-label="创始人播客">
+  <title>创始人播客</title>
+  <path d="M12 3 C9.8 3 8 4.8 8 7 V13 C8 15.2 9.8 17 12 17 C14.2 17 16 15.2 16 13 V7 C16 4.8 14.2 3 12 3 Z" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5 11 C5 15 8 18 12 18 C16 18 19 15 19 11" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 18 V21" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9 21 H15" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

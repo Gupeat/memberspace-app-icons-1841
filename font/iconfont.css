@@ -1,0 +1,39 @@
+/* Local iconfont for #1841. No external font service. */
+@font-face {
+  font-family: 'MemberSpace Icons 1841';
+  src: url('../font/memberspace-icons-1841.woff2') format('woff2'),
+       url('../font/memberspace-icons-1841.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.ms-icon {
+  font-family: 'MemberSpace Icons 1841';
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  display: inline-block;
+  speak: never;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-app-hall::before { content: '\e001'; }
+.icon-app-event-signup::before { content: '\e002'; }
+.icon-app-benefits::before { content: '\e003'; }
+.icon-app-service::before { content: '\e004'; }
+.icon-app-map::before { content: '\e005'; }
+.icon-app-meeting::before { content: '\e006'; }
+.icon-app-podcast::before { content: '\e007'; }
+.icon-app-package::before { content: '\e008'; }
+.icon-app-booking::before { content: '\e009'; }
+.icon-app-log::before { content: '\e00a'; }
+.icon-app-publish::before { content: '\e00b'; }
+.icon-app-connect::before { content: '\e00c'; }
+.icon-app-ticket::before { content: '\e00d'; }
+.icon-app-checkin::before { content: '\e00e'; }
+.icon-app-message::before { content: '\e00f'; }
+.icon-app-privacy::before { content: '\e010'; }

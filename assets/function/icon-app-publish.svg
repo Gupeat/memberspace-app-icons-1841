@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-label="发布供需">
+  <title>发布供需</title>
+  <path d="M3 10 L14 5 V19 L3 14 Z" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7 15 V19 C7 20.1 7.9 21 9 21 H10 V16" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17 9 C18 10.5 18 13.5 17 15" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 7 C22 9.5 22 14.5 20 17" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

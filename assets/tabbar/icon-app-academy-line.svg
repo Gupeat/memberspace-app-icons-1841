@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-label="学院">
+  <title>学院</title>
+  <path d="M2 9 L12 4 L22 9 L12 14 Z" fill="none" stroke="#57677C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 11 V16 C6 18.2 9 20 12 20 C15 20 18 18.2 18 16 V11" fill="none" stroke="#57677C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22 9 V15" fill="none" stroke="#57677C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,325 @@
+{
+  "ok": true,
+  "failures": [],
+  "counts": {
+    "function_svg": 16,
+    "tabbar_svg": 10,
+    "tabbar_png": 10,
+    "unique_icon_names": 26
+  },
+  "files": {
+    "function": [
+      {
+        "path": "assets/function/icon-app-hall.svg",
+        "bytes": 1020,
+        "sha256": "9afce8356e8e3ea841cb6c144714f22efd4f5a780a2bfacf44462247c9e0522d",
+        "paths": 7,
+        "codepoint": "U+E001"
+      },
+      {
+        "path": "assets/function/icon-app-event-signup.svg",
+        "bytes": 880,
+        "sha256": "dbb0097c50c228a2fec3f3187925dbe249e904ee6ebad9fc0830e48586fbac62",
+        "paths": 5,
+        "codepoint": "U+E002"
+      },
+      {
+        "path": "assets/function/icon-app-benefits.svg",
+        "bytes": 474,
+        "sha256": "c6501230dacde04a21f65b40b7252e4f46b28fcc77d3a0d5cbad5ef385b6690f",
+        "paths": 2,
+        "codepoint": "U+E003"
+      },
+      {
+        "path": "assets/function/icon-app-service.svg",
+        "bytes": 905,
+        "sha256": "b3169738708ccdfc2bc1cc9ef11f6fdfc7c9d2b304639a31601c795797e86bd0",
+        "paths": 5,
+        "codepoint": "U+E004"
+      },
+      {
+        "path": "assets/function/icon-app-map.svg",
+        "bytes": 587,
+        "sha256": "c951d70205b281edaea11f38ed1757cf5b9819b443ca94acb43bb496663c496a",
+        "paths": 3,
+        "codepoint": "U+E005"
+      },
+      {
+        "path": "assets/function/icon-app-meeting.svg",
+        "bytes": 476,
+        "sha256": "f3b069d41df963793a1e71861946699c5b04056aaf93742e5724a58983c11a66",
+        "paths": 2,
+        "codepoint": "U+E006"
+      },
+      {
+        "path": "assets/function/icon-app-podcast.svg",
+        "bytes": 792,
+        "sha256": "ceeee600356f0fca17ce9e961ac7f50b0793f9cd00dcdc0fb4338a745c55dabc",
+        "paths": 4,
+        "codepoint": "U+E007"
+      },
+      {
+        "path": "assets/function/icon-app-package.svg",
+        "bytes": 580,
+        "sha256": "02a36e173b20c353d84b3218337a4d94c060cd63f620c166fa7e252fb9c010de",
+        "paths": 3,
+        "codepoint": "U+E008"
+      },
+      {
+        "path": "assets/function/icon-app-booking.svg",
+        "bytes": 829,
+        "sha256": "c56ebfa00222e4640b6fcabcc551ff88cc0c9688b1510e168d83926274fd304b",
+        "paths": 3,
+        "codepoint": "U+E009"
+      },
+      {
+        "path": "assets/function/icon-app-log.svg",
+        "bytes": 711,
+        "sha256": "f5b8ada8037dbfbb9dff20c41a57319c41196f0e20971de0463c2c91c5aa1838",
+        "paths": 4,
+        "codepoint": "U+E00A"
+      },
+      {
+        "path": "assets/function/icon-app-publish.svg",
+        "bytes": 746,
+        "sha256": "55c94b9a7a64ba73090043f1dfc2d0cba55fbe3249dcadda17e34be637ea6ce4",
+        "paths": 4,
+        "codepoint": "U+E00B"
+      },
+      {
+        "path": "assets/function/icon-app-connect.svg",
+        "bytes": 670,
+        "sha256": "891f326fcab39d369a4b9767a25e2ba138a929e7096b00ab3bc5a58396f175a8",
+        "paths": 3,
+        "codepoint": "U+E00C"
+      },
+      {
+        "path": "assets/function/icon-app-ticket.svg",
+        "bytes": 765,
+        "sha256": "4bd6d829a5181a903ca6b2ee804b8f78931d9f09cd7155a88e3a74d694127c9a",
+        "paths": 4,
+        "codepoint": "U+E00D"
+      },
+      {
+        "path": "assets/function/icon-app-checkin.svg",
+        "bytes": 564,
+        "sha256": "9030963b84a99a05d1472bab26209f79db3227ba14ac11ef000fab1a6121021a",
+        "paths": 3,
+        "codepoint": "U+E00E"
+      },
+      {
+        "path": "assets/function/icon-app-message.svg",
+        "bytes": 1366,
+        "sha256": "7361bd1105e04248e8878976d55b3e7c2e3e9bfe358b93df95ab35ecd5d5fa96",
+        "paths": 4,
+        "codepoint": "U+E00F"
+      },
+      {
+        "path": "assets/function/icon-app-privacy.svg",
+        "bytes": 839,
+        "sha256": "fd3fafd1fb65d2d8c1c0d8cb760fbb0a75358b30eae756960416a25f0345672a",
+        "paths": 3,
+        "codepoint": "U+E010"
+      }
+    ],
+    "tabbar_svg": [
+      {
+        "path": "assets/tabbar/icon-app-home-line.svg",
+        "bytes": 565,
+        "sha256": "07ac06eda34d09e0b27e0d2d5e6c9bceda7791f4d00b57443064159be4aaf2d0",
+        "paths": 3
+      },
+      {
+        "path": "assets/tabbar/icon-app-home-fill.svg",
+        "bytes": 312,
+        "sha256": "20e81435c853cba85c853fe98aa40baff4ab58b37e390701675b3728f1c533dc",
+        "paths": 1
+      },
+      {
+        "path": "assets/tabbar/icon-app-opportunity-line.svg",
+        "bytes": 677,
+        "sha256": "3987adc086ca5d2c5fe7a3f95161fba899e8f46655dc37dd3c539fe13f3aa5da",
+        "paths": 4
+      },
+      {
+        "path": "assets/tabbar/icon-app-opportunity-fill.svg",
+        "bytes": 391,
+        "sha256": "b2a5a633d5d9ed7c73197fbe23d809ae038025d66b92825b86b70bfe9a745d05",
+        "paths": 1
+      },
+      {
+        "path": "assets/tabbar/icon-app-event-line.svg",
+        "bytes": 1242,
+        "sha256": "ea453b3787ed053fc5a2953ae9be09b01d4c587a25204480060df5ab70f06097",
+        "paths": 9
+      },
+      {
+        "path": "assets/tabbar/icon-app-event-fill.svg",
+        "bytes": 355,
+        "sha256": "cbe3f24c95a8d12ec7997c8402f507b44fc5cae64c96a054e15b7d7d33cc8c59",
+        "paths": 1
+      },
+      {
+        "path": "assets/tabbar/icon-app-mine-line.svg",
+        "bytes": 658,
+        "sha256": "c04672bb5977d8e726cfec2034c3d5b8b50d85449280dc109ccc14f528faa95b",
+        "paths": 2
+      },
+      {
+        "path": "assets/tabbar/icon-app-mine-fill.svg",
+        "bytes": 476,
+        "sha256": "32eae53f8795e8b49ef156aeac62b06a1b35443f57050945d5da67e701b8d02a",
+        "paths": 1
+      },
+      {
+        "path": "assets/tabbar/icon-app-academy-line.svg",
+        "bytes": 599,
+        "sha256": "6ea078b8940a5630ea2b4bb4b2b81642246d60417e2067f92a8848d1b1b9df36",
+        "paths": 3
+      },
+      {
+        "path": "assets/tabbar/icon-app-academy-fill.svg",
+        "bytes": 329,
+        "sha256": "91eea5c9dbdaae19a3a5fc230ebfbf1c15a79e7a6f48af4f5b91c97e262378a1",
+        "paths": 1
+      }
+    ],
+    "tabbar_png": [
+      {
+        "path": "artifacts/tabbar/icon-app-home-line.png",
+        "bytes": 1082,
+        "sha256": "a7d5967f32ff25719d0aa8079552a487c5183235b1e2b3b88237c2ead970d3c4",
+        "size": [
+          81,
+          81
+        ],
+        "nontransparent_pixels": 1941
+      },
+      {
+        "path": "artifacts/tabbar/icon-app-home-fill.png",
+        "bytes": 714,
+        "sha256": "1a5c8d5afbf42b7b771dec9c7cfe8ef1715f0f785f9edfc1aad7724cffa3a0f6",
+        "size": [
+          81,
+          81
+        ],
+        "nontransparent_pixels": 2507
+      },
+      {
+        "path": "artifacts/tabbar/icon-app-opportunity-line.png",
+        "bytes": 805,
+        "sha256": "5b8e535c4918fe8ee251626cb88a9fff56903631bbb6b869e98ab2b6e9f6ab34",
+        "size": [
+          81,
+          81
+        ],
+        "nontransparent_pixels": 2294
+      },
+      {
+        "path": "artifacts/tabbar/icon-app-opportunity-fill.png",
+        "bytes": 577,
+        "sha256": "f67ef1cd2a9a2ec7886619b40f992150e986f289bb2dfc9353f6a6b2337d45f1",
+        "size": [
+          81,
+          81
+        ],
+        "nontransparent_pixels": 3195
+      },
+      {
+        "path": "artifacts/tabbar/icon-app-event-line.png",
+        "bytes": 1395,
+        "sha256": "556a5b63bcf4cc7760052852c08f3fd651e8451e8ba951db61f469b1a757a3c6",
+        "size": [
+          81,
+          81
+        ],
+        "nontransparent_pixels": 2553
+      },
+      {
+        "path": "artifacts/tabbar/icon-app-event-fill.png",
+        "bytes": 548,
+        "sha256": "752ca9712ae974233599631f33549166a85dc1c96e20a40049e7e8cc32eaeb73",
+        "size": [
+          81,
+          81
+        ],
+        "nontransparent_pixels": 3411
+      },
+      {
+        "path": "artifacts/tabbar/icon-app-mine-line.png",
+        "bytes": 1440,
+        "sha256": "5810f0f33ed968e8dc76c88386cc8ab39a53c1f45af52ec0faffadcd0ce69e28",
+        "size": [
+          81,
+          81
+        ],
+        "nontransparent_pixels": 1302
+      },
+      {
+        "path": "artifacts/tabbar/icon-app-mine-fill.png",
+        "bytes": 870,
+        "sha256": "dbad9c1e0adc70753a6ae28a29c8985888727c9a2b7bcbfb5eae46bc4faef6ce",
+        "size": [
+          81,
+          81
+        ],
+        "nontransparent_pixels": 1664
+      },
+      {
+        "path": "artifacts/tabbar/icon-app-academy-line.png",
+        "bytes": 1317,
+        "sha256": "addfaab0a843721278f2d20a1d98a060f3e35a13754857bd3aeb9eb92d843e84",
+        "size": [
+          81,
+          81
+        ],
+        "nontransparent_pixels": 1883
+      },
+      {
+        "path": "artifacts/tabbar/icon-app-academy-fill.png",
+        "bytes": 724,
+        "sha256": "30fe5e18644600eaa2ba206b603133366d59b47410463432383cec9d347485bb",
+        "size": [
+          81,
+          81
+        ],
+        "nontransparent_pixels": 2209
+      }
+    ]
+  },
+  "checks": {
+    "function_svg_spec": true,
+    "tabbar_svg_spec": true,
+    "tabbar_png_spec": true,
+    "iconfont": {
+      "ttf": {
+        "bytes": 8688,
+        "sha256": "dfb5d22f5485f9dcefa60e23109f8be237a05430f1eafaf8ea67c05773ebc268"
+      },
+      "woff2": {
+        "bytes": 3176,
+        "sha256": "7411184a4477b6a95c85f9f6d1bba45318c5e2d8b41443b5e83a76da78f550c7"
+      },
+      "css": {
+        "bytes": 1405,
+        "sha256": "c9d21a662aa1f8f3291e6014a8f05dc63cb7aa99a4dfbf63fe28404febed70eb"
+      },
+      "glyphs_json": {
+        "bytes": 1525,
+        "sha256": "19927700e1bc8b18c177bf5d0dca62be9df073417eff7acc9679368ea97767a8"
+      },
+      "glyph_count": 16
+    },
+    "demo": {
+      "path": "demo/index.html",
+      "bytes": 4843,
+      "sha256": "ab0e92fc753473e25ec9dc77aff36fd02f548d6976be5446e236e7f559d2ecec"
+    },
+    "naming": {
+      "path": "docs/NAMING.md",
+      "bytes": 3848,
+      "sha256": "e9a2fe5c84c0fb42dc2463f1a70f99b4d46a104e8c79f01b0d63743aaf5e1a4b",
+      "unique_names": 26
+    }
+  }
+}

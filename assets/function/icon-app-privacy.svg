@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-label="隐私设置">
+  <title>隐私设置</title>
+  <path d="M12 3 L20 6 V12 C20 16.5 16.8 19.8 12 21 C7.2 19.8 4 16.5 4 12 V6 Z" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 14.0 10 C 14.0 11.104569499661586 13.104569499661586 12.0 12 12.0 C 10.895430500338414 12.0 10.0 11.104569499661586 10.0 10 C 10.0 8.895430500338414 10.895430500338414 8.0 12 8.0 C 13.104569499661586 8.0 14.0 8.895430500338414 14.0 10 Z" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 12 V15" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

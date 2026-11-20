@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-label="电子票">
+  <title>电子票</title>
+  <path d="M3 7 H21 V10 C19.9 10 19 10.9 19 12 C19 13.1 19.9 14 21 14 V17 H3 V14 C4.1 14 5 13.1 5 12 C5 10.9 4.1 10 3 10 Z" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 8 V10" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 12 V14" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 16 V17" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

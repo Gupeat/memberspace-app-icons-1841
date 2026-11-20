@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-11-20T18:58:55Z",
+  "scope": "UTF-8 text files in repo (md/txt/json/html/css/py/mjs); binary and SVG coordinate streams excluded",
+  "patterns": [
+    "Windows user directory path",
+    "internal environment name",
+    "GitHub/OpenAI token prefixes",
+    "email",
+    "mainland mobile number"
+  ],
+  "scanned_files": 17,
+  "hit_count": 0,
+  "hits": []
+}

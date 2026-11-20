@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-label="航海日志">
+  <title>航海日志</title>
+  <path d="M4 5 C4 3.9 4.9 3 6 3 H20 V21 H6 C4.9 21 4 20.1 4 19 Z" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4 17 H20" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 8 H16" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 12 H14" fill="none" stroke="#1F5EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

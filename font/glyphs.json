@@ -1,0 +1,71 @@
+{
+  "family": "MemberSpace Icons 1841",
+  "font": "memberspace-icons-1841",
+  "version": "1.0.0",
+  "icons": {
+    "icon-app-hall": {
+      "codepoint": 57345,
+      "glyph": "uniE001"
+    },
+    "icon-app-event-signup": {
+      "codepoint": 57346,
+      "glyph": "uniE002"
+    },
+    "icon-app-benefits": {
+      "codepoint": 57347,
+      "glyph": "uniE003"
+    },
+    "icon-app-service": {
+      "codepoint": 57348,
+      "glyph": "uniE004"
+    },
+    "icon-app-map": {
+      "codepoint": 57349,
+      "glyph": "uniE005"
+    },
+    "icon-app-meeting": {
+      "codepoint": 57350,
+      "glyph": "uniE006"
+    },
+    "icon-app-podcast": {
+      "codepoint": 57351,
+      "glyph": "uniE007"
+    },
+    "icon-app-package": {
+      "codepoint": 57352,
+      "glyph": "uniE008"
+    },
+    "icon-app-booking": {
+      "codepoint": 57353,
+      "glyph": "uniE009"
+    },
+    "icon-app-log": {
+      "codepoint": 57354,
+      "glyph": "uniE00A"
+    },
+    "icon-app-publish": {
+      "codepoint": 57355,
+      "glyph": "uniE00B"
+    },
+    "icon-app-connect": {
+      "codepoint": 57356,
+      "glyph": "uniE00C"
+    },
+    "icon-app-ticket": {
+      "codepoint": 57357,
+      "glyph": "uniE00D"
+    },
+    "icon-app-checkin": {
+      "codepoint": 57358,
+      "glyph": "uniE00E"
+    },
+    "icon-app-message": {
+      "codepoint": 57359,
+      "glyph": "uniE00F"
+    },
+    "icon-app-privacy": {
+      "codepoint": 57360,
+      "glyph": "uniE010"
+    }
+  }
+}
